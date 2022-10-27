@@ -7,21 +7,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
-
-  <h5 padding="10px">Node JS</h5>
-  <h5>Express JS</h5>
-  <h5>PostgreSQL</h5>
-  <h5>React JS</h5>
-  <h5>Redux</h5>
-  <h5>HTML</h5>
-  <h5>CSS</h5>
-  <h5>Git</h5>
-</div>
-<p align="left">
+<h5 align="center">Node JS | Express JS | PostgreSQL | React JS | Redux | HTML | CSS | Git</h5>
+<p align="center">
 <!--   <h5>Node JS</h5> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
   </a>
   
 <!--   <h5>Express JS</h5> -->
