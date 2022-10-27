@@ -7,9 +7,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div color="red">
+<div>
 
-  <h5>Node JS</h5>
+  <h5 padding="10px">Node JS</h5>
   <h5>Express JS</h5>
   <h5>PostgreSQL</h5>
   <h5>React JS</h5>
