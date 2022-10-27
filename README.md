@@ -7,9 +7,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div 
- style="display: flex"
- >
+<div style="display: flex">
 
   <h5>Node JS</h5>
   <h5>Express JS</h5>
