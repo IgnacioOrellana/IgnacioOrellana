@@ -9,6 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- <h5>Express</h5> -->
 <p align="left">
+  <h5>Node JS</h5>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
