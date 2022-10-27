@@ -8,9 +8,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div 
- style="
-    display: flex
-    justify-content: space-evenly">
+ style="display: flex";
+<!--     justify-content: space-evenly" -->
+    >
 
   <h5>Node JS</h5>
   <h5>Express JS</h5>
