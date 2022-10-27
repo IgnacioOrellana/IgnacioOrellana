@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div 
- style="display: flex";
+ style="display: flex"
  >
 
   <h5>Node JS</h5>
