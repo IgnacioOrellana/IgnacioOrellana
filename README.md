@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h5 align="center">Node JS | Express JS | PostgreSQL | React JS | Redux | HTML | CSS | Git</h5>
+<h3 align="center">Node JS | Express JS | PostgreSQL | React JS | Redux | HTML | CSS | Git</h3>
 <p align="center">
 <!--   <h5>Node JS</h5> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
