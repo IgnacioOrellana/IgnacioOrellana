@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/ignacio-o-484356246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio orellana" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tecnologias:</h3>
+<h3 align="left">Tecnologias</h3>
 <p>Node JS | Express JS | PostgreSQL | React JS | Redux | HTML | CSS | Git </p>
 
 <p>
