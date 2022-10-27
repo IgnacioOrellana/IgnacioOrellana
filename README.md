@@ -8,10 +8,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <h3> Node JS</h3>
-  <h3> Node JS</h3>
+  <h5>Node JS</h5>
+  <h5>Express JS</h5>
+  <h5>PostgreSQL</h5>
+  <h5>React JS</h5>
+  <h5>Redux</h5>
+  <h5>HTML</h5>
+  <h5>CSS</h5>
+  <h5>Git</h5>
 </div>
-<h5>Node JS  |  Express JS PostgreSQL React JS Redux HTML CSS Git</h5>
 <p align="left">
 <!--   <h5>Node JS</h5> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
