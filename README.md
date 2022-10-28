@@ -5,7 +5,7 @@
 <p> :pushpin: Nivel actual de inglés B1 Intermedio (EF SET English Certificate)</p>
 <br>
 
-<h3 align="left">Contactame por redes</h3>
+<h3 align="left">Mis redes</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-o-484356246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio orellana" height="30" width="40" /></a>
 </p>
