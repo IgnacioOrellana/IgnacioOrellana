@@ -3,16 +3,15 @@
 
 <p> :man_student: Cuento con experiencias académicas desarrollando proyectos individuales y grupales como estudiante manejando el Stack PERN (PostgreSQL, Express, React JS y Node JS)</p>
 <p> :pushpin: Nivel actual de inglés B1 Intermedio (EF SET English Certificate)</p>
-
+<br>
 
 <h3 align="left">Contactame por redes</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-o-484356246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio orellana" height="30" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">Tecnologias</h3>
-<p>Node JS | Express JS | PostgreSQL | React JS | Redux | HTML | CSS | Git </p>
-
 <p>
 <!--   <h5>Node JS</h5> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -59,6 +58,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50"/> 
   </a> 
 </p>
+<p>Node JS | Express JS | PostgreSQL | React JS | Redux | HTML | CSS | Git </p>
 
 <!--
 **IgnacioOrellana/IgnacioOrellana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
