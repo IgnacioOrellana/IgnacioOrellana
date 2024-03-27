@@ -1,5 +1,5 @@
 <h1 align="center">Hola :earth_americas: , soy Ignacio :wave: </h1>
-<h3 align="center">:computer: Desarrollador Web Fullstack orientado al Back-end :gear:</h3>
+<h3 align="center">:computer: Desarrollador Web Fullstack :gear:</h3>
 
 <p> :man_student: Cuento con experiencias académicas desarrollando proyectos individuales y grupales como estudiante manejando el Stack PERN (PostgreSQL, Express, React JS y Node JS)</p>
 <p> :pushpin: Nivel actual de inglés B1 Intermedio (EF SET English Certificate)</p>
